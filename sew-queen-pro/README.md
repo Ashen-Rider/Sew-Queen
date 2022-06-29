@@ -1,13 +1,6 @@
 ```js
-Sew Queen Whatsapp Bot                       
+ @𝖗𝖎𝖉𝖊𝖗𝖇𝖔𝖙1🤖 𝖔𝖜𝖓𝖊𝖉 𝖇𝖞 A̳s̳h̳e̳n̳ ̳R̳i̳d̳e̳r̳ 🇱🇰               '
 
-🎲 Telegram: 't.me/RavinduManoj'
-Facebook: 'https://www.facebook.com/ravindu.manoj.79'
-Licensed under the  GPL-3.0 License;
+Coded By 
+💗 A̳s̳h̳e̳n̳ ̳R̳i̳d̳e̳r̳ 🇱🇰
 
-Coded By Ravindu Manoj
-
-"You Can't Use Cloned Or Forked version of Sew Queen.. So Don't waste your Time For Do it... [Ravindu Manoj]"
-
- 'This Folder Will Automate After Deploy Your Bot'
-```
